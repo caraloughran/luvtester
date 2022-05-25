@@ -1,0 +1,72 @@
+* {
+    background-color:hsl(0, 91%, 82%);
+}
+
+h1 {
+    text-align:center;
+    font-family: 'Square Peg', cursive;
+    font-size:50px;
+    color:#fff;
+   
+}
+
+h4 {
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    margin-bottom:50px;
+}
+
+#yname {
+    float:left;
+    margin-left:80px;
+    margin-top:70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+#yourname {
+    border-style:none;
+}
+
+#yourname:focus {
+    outline:none;
+    border-bottom: 3px solid white;
+}
+
+#lovesname {
+    border-style:none;
+}
+
+#lovesname:focus {
+    outline:none;
+    border-bottom: 3px solid white;
+}
+
+#lname {
+    float:right;
+    margin-right:80px;
+    margin-top:70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+#score {
+    text-align:center;
+    font-size:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+#loveTester {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:150px;
+    font-family:'Square Peg', cursive;
+    color:white;
+    font-size:40px;
+    background-color:hsl(0, 91%, 87%);
+    border: 2px solid white;
+    border-radius:4px;
+}
